@@ -1,0 +1,5 @@
+body { text-align:center; font-family:verdana, sans-sarif; font-size:75%; margin:0; padding:0; }
+
+.flickr-wrapper, .flickr-wrapper1 { margin:0 auto; text-align:left; width:48%; background-color:#f1f1f1; }
+.flickr-wrapper ul.gallery, .flickr-wrapper1 ul.gallery { padding:0 0 0 4px; margin:0; }
+.flickr-wrapper ul.gallery li, .flickr-wrapper1 ul.gallery li { display:inline-table; margin:5px; text-align:center; }
